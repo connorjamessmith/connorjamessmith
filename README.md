@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Developer
+Head of IT in a UK Based Company.
 
 
 # 💻 Tech Stack:
