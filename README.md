@@ -1,22 +1,44 @@
-# 💫 About Me:
-Head of IT in a UK Based Company.
+<div align="center">
 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tehtark&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tehtark&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tehtark&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## � About Me  
+Head of IT at a UK-based company, working across infrastructure, architecture, and full-stack development.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tehtark&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### �️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="Microsoft SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity"/>
+</p>
+
+---
+
+### � GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=connorjamessmith&show_icons=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=connorjamessmith&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connorjamessmith" alt="GitHub Streak" />
+</p>
+
+</div>
