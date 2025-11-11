@@ -1,7 +1,7 @@
 <div align="center">
 
 ## � About Me  
-Head of IT at a UK-based company, working across infrastructure, architecture, and full-stack development.
+Head of IT at a UK-based company.
 
 ---
 
