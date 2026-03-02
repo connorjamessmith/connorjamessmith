@@ -30,8 +30,8 @@ Head of IT at a UK-based company.
 ### � GitHub Statistics
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="195"/>
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="195"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="150"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="150"/>
 </p>
 
 </div>
