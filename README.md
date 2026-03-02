@@ -30,15 +30,8 @@ Head of IT at a UK-based company.
 ### � GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=connorjamessmith&show_icons=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=connorjamessmith&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connorjamessmith" alt="GitHub Streak" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="195"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="195"/>
 </p>
 
 </div>
