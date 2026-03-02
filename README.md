@@ -1,6 +1,6 @@
 <div align="center">
   
-### �️ Languages and Tools
+### Languages and Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/>
@@ -20,9 +20,7 @@
   <img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity"/>
 </p>
 
----
-
-### � GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" height="140"/>
