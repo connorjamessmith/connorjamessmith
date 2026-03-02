@@ -1,10 +1,5 @@
 <div align="center">
-
-## � About Me  
-Head of IT at a UK-based company.
-
----
-
+  
 ### �️ Languages and Tools
 
 <p>
