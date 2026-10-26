@@ -2,7 +2,7 @@
   
 ### Languages and Tools
 
-<p align="center">
+<p align="center" justify="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,docker,dotnet,html,java,js,linux,nginx,py,spring,sqlite,unity,laravel,php" />
 </p>
 
